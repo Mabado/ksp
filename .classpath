@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="jfree/" kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/eclipse/plugins/jfreechart-1.0.3-demo.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/eclipse/plugins/jcommon-1.0.6.jar"/>
+	<classpathentry kind="lib" path="jfree"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/eclipse/plugins/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
